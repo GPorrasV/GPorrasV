@@ -34,20 +34,9 @@
 
 <h2 align="left">Other accounts</h2>
 
-###
 
-<p align="left">Here's my personal GitHub account! https://github.com/gporras24</p>
 
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/ geraldine-porras-043415245" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="gporras2403@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<p align="left"> <a href="https://www.github.com/gporras24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geraldine-porras-043415245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ###
 
